@@ -6,7 +6,7 @@ def generatorPrime():
     lista = []
     myList = []
 
-    for x in range(0, final):
+    for x in range(init, final):
         lista.append(x)
         lista
 
