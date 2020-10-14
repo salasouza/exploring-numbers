@@ -7,8 +7,8 @@ def generatorPrime():
     my_list = []
 
     for x in range(init, final):
-        lista.append(x)
-        lista
+        list_resumed.append(x)
+        list_resumed
 
     for number in list_resumed:
         if number > 1:
@@ -18,6 +18,6 @@ def generatorPrime():
             else:
                 my_list.append(number)
 
-    print("This sequence of prime numbers:", myList)
+    print("This sequence of prime numbers:", my_list)
 
 generatorPrime()
